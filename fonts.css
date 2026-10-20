@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Radiotechnika";
+   src: url("fonts/Radiotechnika.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bahnschrift";
+   src: url("fonts/Bahnschrift.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
